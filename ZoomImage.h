@@ -1,6 +1,5 @@
 //
 //  ZoomImage.h
-//  FloorPlanDemo
 //
 //  Created by nikhil on 09/09/14.
 //  Copyright (c) 2014 nikhil. All rights reserved.
