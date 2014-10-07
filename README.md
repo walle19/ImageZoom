@@ -1,7 +1,7 @@
 ImageZoom
 =========
 
-A library file(.h and .m) for image zoom in/out in iPhone and iPad.
+A library file(.h and .m) for image zoom in/out in iPhone and iPad. ImageZoom library is based on UIScrollView along with UIImageView (added programmatically) so it extend's UIScrollView and UIImageView properties. Provide a ease for pinch in/out in image along with a double tap to zoom in/out to and from a particular area of Image.
 
 Example
 =======
