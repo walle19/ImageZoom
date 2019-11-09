@@ -35,3 +35,11 @@ Developed for iOS 8 and lesser.
 Tested on iPhone 4, 4S, 5, 5S, 6 and 6 Plus.
 
 Tested on iPad Air ,Retina and 2.
+
+### Author
+
+[Nikhil Wali](https://github.com/walle19)
+
+### License
+
+Copyright © 2014, [Nikhil Wali](https://github.com/walle19).
